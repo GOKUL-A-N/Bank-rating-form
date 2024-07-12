@@ -1,0 +1,4 @@
+.backgroundGrad{
+    /* background: linear-gradient(120deg, rgba(57,198,156,1) 7%, rgba(57,198,156,1) 16%, rgba(0,0,0,1) 100%); */
+    background: linear-gradient(120deg, rgb(182, 255, 233) 7%, rgb(169, 252, 227) 16%, rgb(230, 230, 230) 77%);
+}
